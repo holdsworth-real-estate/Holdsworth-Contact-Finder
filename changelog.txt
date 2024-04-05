@@ -1,3 +1,6 @@
 1.0.0
   - Created Holdsworth Contact Finder
   - Added information text at bottom of the window
+1.0.1
+  - Fixed program not saving Vault contacts after iD4me search
+  - Fixed postcodes not being loaded
