@@ -5,3 +5,6 @@
   - Fixed program not saving Vault contacts after iD4me search
   - Fixed postcodes not being loaded
   - Fixed program not prompting user to update
+1.1.0
+  - Added auto-updating of the auto-updater
+  - Bugfixes :)
