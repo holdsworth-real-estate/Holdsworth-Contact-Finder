@@ -12,4 +12,5 @@
   - Fixed fatal error :(
 1.2.0
   - Added ability to open user guide
+  - Made it more obvious when the program is updating the updater
   - Bugfixes :)
