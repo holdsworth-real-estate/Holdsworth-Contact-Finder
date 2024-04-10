@@ -1,2 +1,4 @@
 1.0.0
   - Created Holdsworth Contact Finder - UPDATER.exe
+1.0.1
+  - Fixed changelog not displaying
