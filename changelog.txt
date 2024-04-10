@@ -10,3 +10,6 @@
   - Bugfixes :)
 1.1.1
   - Fixed fatal error :(
+1.2.0
+  - Added ability to open user guide
+  - Bugfixes :)
