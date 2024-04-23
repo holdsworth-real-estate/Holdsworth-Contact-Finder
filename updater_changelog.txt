@@ -2,3 +2,7 @@
   - Created Holdsworth Contact Finder - UPDATER.exe
 1.0.1
   - Fixed changelog not displaying
+1.1.0
+  - Updates will now be downloaded from holdsworth-real-estate/Holdsworth-Contact-Finder
+  - Performance improvements
+  - Bugfixes :)
