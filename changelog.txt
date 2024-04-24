@@ -16,3 +16,5 @@
   - Bugfixes :)
 1.2.1
   - Updates will now be downloaded from holdsworth-real-estate/Holdsworth-Contact-Finder
+1.3.0
+  - The user will be notified if the username/password is incorrect (for both CoreLogic and iD4me)
