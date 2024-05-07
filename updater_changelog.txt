@@ -8,3 +8,5 @@
   - Bugfixes :)
 1.2.0
   - Rewrote some code
+1.2.1
+  - Fixed changelog not displaying

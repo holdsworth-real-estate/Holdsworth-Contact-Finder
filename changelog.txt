@@ -26,3 +26,7 @@
   - Modified the output of Vault contact files (to align with fields on VaultRE)
   - Added Mount Lawley to postcodes.csv (god knows why it wasn't in there before)
   - Removed old (unused) code, reducing file size by (**checks notes**) 1KB!
+1.3.3
+  - street-map.net.au doesn't work anymore :(
+  - Rewrote the street-finding code to use data from geographic.org instead
+  - Fixed updater changelog not displaying correctly
