@@ -30,3 +30,5 @@
   - street-map.net.au doesn't work anymore :(
   - Rewrote the street-finding code to use data from geographic.org instead
   - Fixed updater changelog not displaying correctly
+1.3.4
+  - street-map.net.au works again!!! (we've switched back to it because the other one didn't work properly)
