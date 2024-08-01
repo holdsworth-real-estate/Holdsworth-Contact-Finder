@@ -38,3 +38,5 @@
   - Added saving streets locally to reduce the time taken to find streets
 1.4.1
   - street-map.net.au is broken again (switched it back to geographic.org)
+1.4.2
+  - Fixed browser not opening
